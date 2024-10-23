@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vamsi Krishna Vasa</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Vamsi Krishna Vasa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>STA-Unet: Rethink the semantic redundant for Medical Imaging Segmentation</title>
+      <link>http://localhost:1313/blog/sta-unet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/sta-unet/</guid>
+      <description>VK Vasa, W Zhu, X Chen, P Qiu, X Dong, Y Wang. Under review at WACV 2025 (Round 2)</description>
+    </item>
+    
+    <item>
+      <title>Context-Aware Optimal Transport Learning for Retinal Fundus Image Enhancement</title>
+      <link>http://localhost:1313/blog/context-ot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/context-ot/</guid>
+      <description>VK Vasa, P Qiu, W Zhu, Y Xiong, O Dumitrascu, Y Wang. Under review at WACV 2025 (Round 2)</description>
+    </item>
+    
+    <item>
+      <title>CUNSB-RFIE: Context-aware Unpaired Neural Schrödinger Bridge in Retinal Fundus Image Enhancement</title>
+      <link>http://localhost:1313/blog/cunsb-rfie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/cunsb-rfie/</guid>
+      <description>Xuanzhao Dong, Vamsi Krishna Vasa, Wenhui Zhu, Peijie Qiu, Xiwen Chen, Yi Su, Yujian Xiong, Zhangsihao Yang, Yanxi Chen, Yalin Wang. Under review at WACV2025 (Round 2)</description>
+    </item>
+    
+    <item>
+      <title>Mapping Human face age progression using Contextual loss</title>
+      <link>http://localhost:1313/blog/faceagepro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/faceagepro/</guid>
+      <description>Master&amp;#39;s Thesis Part-2</description>
+    </item>
+    
+    <item>
+      <title>Polyp Segmentation in Gastro Intestinal Tract Endoscopy using Image to Image translation</title>
+      <link>http://localhost:1313/blog/polypseg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/polypseg/</guid>
+      <description>Master&amp;#39;s Thesis Part-1</description>
+    </item>
+    
+    <item>
+      <title>AWS Elastic Application for facial recognition</title>
+      <link>http://localhost:1313/projects/cloud-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/cloud-app/</guid>
+      <description>This project leveraged various AWS functionalities such as S3, SQS and EC2 along with Lambda and Docker.</description>
+    </item>
+    
+    <item>
+      <title>GradCAM implementation on X-ray classification</title>
+      <link>http://localhost:1313/projects/x-ray-classification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/x-ray-classification/</guid>
+      <description>Understanding medical dataset using X-rays.</description>
+    </item>
+    
+    <item>
+      <title>Implementation of Loop Subdivision Algorithm using Half Edge Data Structure</title>
+      <link>http://localhost:1313/projects/loop-subdivision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/loop-subdivision/</guid>
+      <description>Smoothening the Mesh structures leveraging half-edge data structures.</description>
+    </item>
+    
+    <item>
+      <title>Modelling and Simulating the Skateboard using DEVS Simulator</title>
+      <link>http://localhost:1313/projects/skate-board/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/skate-board/</guid>
+      <description>Java based Digital Twin. Completed as a part of Course project in CSE-561 Modelling, Simulation and Theory of applications</description>
+    </item>
+    
+    <item>
+      <title>Panaroma Stitching using Python</title>
+      <link>http://localhost:1313/projects/panaroma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/panaroma/</guid>
+      <description>This work is completed as a part of Course assignment in 3D Computer Vision at IIT Gandhinagar</description>
+    </item>
+    
+    <item>
+      <title>Simulating Fire Evacuation at Hayden library using DEVS Simulator</title>
+      <link>http://localhost:1313/projects/fire-evac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/fire-evac/</guid>
+      <description>Java based Digital Twin for real time Safety evacaution. Completed as a part of Course project in CSE-561 Modelling, Simulation and Theory of applications</description>
+    </item>
+    
+    <item>
+      <title>Spherical Conformal Mapping using Python</title>
+      <link>http://localhost:1313/projects/spherical-map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/spherical-map/</guid>
+      <description>Python implementation of paper Genus Zero Surface Conformal Mapping</description>
+    </item>
+    
+    <item>
+      <title>Graduate Student Researcher</title>
+      <link>http://localhost:1313/experience/acims/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/acims/</guid>
+      <description> Arizona Center for Integrative Modeling and Simulation (ACIMS) @ ASU| Tempe AZ, USA</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Researcher</title>
+      <link>http://localhost:1313/experience/gsl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/gsl/</guid>
+      <description>Geometry Systems Laboratory @ ASU| Tempe AZ, USA</description>
+    </item>
+    
+    <item>
+      <title>Systems Engineer</title>
+      <link>http://localhost:1313/experience/tcs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/tcs/</guid>
+      <description>Tata Consultancy Services Ltd. | Bangalore, India</description>
+    </item>
+    
+    <item>
+      <title>Computer Vision Intern</title>
+      <link>http://localhost:1313/experience/cdac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/cdac/</guid>
+      <description>Center for Development of Advanced Computing (C-DAC) | Hyderabad, India</description>
+    </item>
+    
+    <item>
+      <title>Winter Intern</title>
+      <link>http://localhost:1313/experience/capgemini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/capgemini/</guid>
+      <description>Capgemini Pvt Ltd. | Gujarat, India</description>
+    </item>
+    
+    <item>
+      <title>Graduate Engineer Trainee</title>
+      <link>http://localhost:1313/experience/tata-chemicals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/tata-chemicals/</guid>
+      <description>Tata Chemicals Ltd. | Gujarat, India</description>
+    </item>
+    
+    
+  </channel>
+</rss>

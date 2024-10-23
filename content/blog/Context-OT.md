@@ -1,0 +1,23 @@
+---
+title: "Context-Aware Optimal Transport Learning for Retinal Fundus Image Enhancement"
+description: "VK Vasa, P Qiu, W Zhu, Y Xiong, O Dumitrascu, Y Wang. Under review at WACV 2025 (Round 2)"
+dateString: Sept 2024
+draft: false
+tags: ["Contextual loss", "Optimal Transport", "GANs", "WACV2025",  "Retinal Image Enhancement"]
+weight: 102
+cover:
+    image: "/blog/Context-OT/Context-OT.png"
+---
+
+## Abstract
+
+Retinal fundus photography offers a non-invasive way to diagnose and monitor a variety of retinal diseases, but is prone to inherent quality glitches arising from systemic imperfections or operator/patient-related factors. However, high-quality retinal images are crucial for carrying out accurate diagnoses and automated analyses. The fundus image enhancement is typically formulated as a distribution alignment problem, by finding a one-to-one mapping between a low-quality image and its high-quality counterpart. This paper proposes a context-informed optimal transport (OT) learning framework for tackling unpaired fundus image enhancement. In contrast to standard generative image enhancement methods, which struggle with handling contextual information (e.g., over-tampered local structures and unwanted artifacts), the proposed context-aware OT learning paradigm better preserves local structures and minimizes unwanted artifacts. Leveraging deep contextual features, we derive the proposed context-aware OT using the earth mover's distance and show that the proposed context-OT has a solid theoretical guarantee. Experimental results on a large-scale dataset demonstrate the superiority of the proposed method over several state-of-the-art supervised and unsupervised methods in terms of signal-to-noise ratio, structural similarity index, as well as two downstream tasks.
+
+# Collaborators
+
+- Mayo Clinic, Phoenix AZ
+- Medical Imaging and Data Science (MINDS) Lab, Washington University in St. Louis
+
+🔗 [Paper Pre-print](https://arxiv.org/abs/2409.07862)
+
+🔗 [Code](https://github.com/Retinal-Research/Contextual-OT)

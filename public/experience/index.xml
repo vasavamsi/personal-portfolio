@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Experiences on Vamsi Krishna Vasa</title>
+    <link>http://localhost:1313/experience/</link>
+    <description>Recent content in Experiences on Vamsi Krishna Vasa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graduate Student Researcher</title>
+      <link>http://localhost:1313/experience/acims/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/acims/</guid>
+      <description> Arizona Center for Integrative Modeling and Simulation (ACIMS) @ ASU| Tempe AZ, USA</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Researcher</title>
+      <link>http://localhost:1313/experience/gsl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/gsl/</guid>
+      <description>Geometry Systems Laboratory @ ASU| Tempe AZ, USA</description>
+    </item>
+    
+    <item>
+      <title>Systems Engineer</title>
+      <link>http://localhost:1313/experience/tcs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/tcs/</guid>
+      <description>Tata Consultancy Services Ltd. | Bangalore, India</description>
+    </item>
+    
+    <item>
+      <title>Computer Vision Intern</title>
+      <link>http://localhost:1313/experience/cdac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/cdac/</guid>
+      <description>Center for Development of Advanced Computing (C-DAC) | Hyderabad, India</description>
+    </item>
+    
+    <item>
+      <title>Winter Intern</title>
+      <link>http://localhost:1313/experience/capgemini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/capgemini/</guid>
+      <description>Capgemini Pvt Ltd. | Gujarat, India</description>
+    </item>
+    
+    <item>
+      <title>Graduate Engineer Trainee</title>
+      <link>http://localhost:1313/experience/tata-chemicals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/tata-chemicals/</guid>
+      <description>Tata Chemicals Ltd. | Gujarat, India</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Vamsi Krishna Vasa</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Vamsi Krishna Vasa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D Meshes</title>
+      <link>http://localhost:1313/tags/3d-meshes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/3d-meshes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Transformation</title>
+      <link>http://localhost:1313/tags/3d-transformation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/3d-transformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attention U-Net</title>
+      <link>http://localhost:1313/tags/attention-u-net/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/attention-u-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AWS</title>
+      <link>http://localhost:1313/tags/aws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AzureDevOps</title>
+      <link>http://localhost:1313/tags/azuredevops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/azuredevops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Batch Process</title>
+      <link>http://localhost:1313/tags/batch-process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/batch-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CI/CD</title>
+      <link>http://localhost:1313/tags/ci/cd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ci/cd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Graphics</title>
+      <link>http://localhost:1313/tags/computer-graphics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/computer-graphics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>http://localhost:1313/tags/computer-vision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contectual Loss</title>
+      <link>http://localhost:1313/tags/contectual-loss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/contectual-loss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextual Loss</title>
+      <link>http://localhost:1313/tags/contextual-loss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/contextual-loss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>http://localhost:1313/tags/deep-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DEVS</title>
+      <link>http://localhost:1313/tags/devs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/devs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion Model</title>
+      <link>http://localhost:1313/tags/diffusion-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/diffusion-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion Models</title>
+      <link>http://localhost:1313/tags/diffusion-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/diffusion-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Twin</title>
+      <link>http://localhost:1313/tags/digital-twin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/digital-twin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Twins</title>
+      <link>http://localhost:1313/tags/digital-twins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/digital-twins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>http://localhost:1313/tags/docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EC2</title>
+      <link>http://localhost:1313/tags/ec2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ec2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electrical Engineering</title>
+      <link>http://localhost:1313/tags/electrical-engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/electrical-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GANs</title>
+      <link>http://localhost:1313/tags/gans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/gans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatling</title>
+      <link>http://localhost:1313/tags/gatling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/gatling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Half-Edge</title>
+      <link>http://localhost:1313/tags/half-edge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/half-edge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homography Estimation</title>
+      <link>http://localhost:1313/tags/homography-estimation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/homography-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Enchancement</title>
+      <link>http://localhost:1313/tags/image-enchancement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/image-enchancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processing</title>
+      <link>http://localhost:1313/tags/image-processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/image-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekins</title>
+      <link>http://localhost:1313/tags/jekins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/jekins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jira</title>
+      <link>http://localhost:1313/tags/jira/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/jira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lambda</title>
+      <link>http://localhost:1313/tags/lambda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/lambda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical Imaging</title>
+      <link>http://localhost:1313/tags/medical-imaging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/medical-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and Simulation</title>
+      <link>http://localhost:1313/tags/modeling-and-simulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/modeling-and-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Organ Segmenation</title>
+      <link>http://localhost:1313/tags/multi-organ-segmenation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/multi-organ-segmenation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Organ Segmentation</title>
+      <link>http://localhost:1313/tags/multi-organ-segmentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/multi-organ-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Functional Testing</title>
+      <link>http://localhost:1313/tags/non-functional-testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/non-functional-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object Detection</title>
+      <link>http://localhost:1313/tags/object-detection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/object-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Transport</title>
+      <link>http://localhost:1313/tags/optimal-transport/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/optimal-transport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polyp Segmentation</title>
+      <link>http://localhost:1313/tags/polyp-segmentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/polyp-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyTorch</title>
+      <link>http://localhost:1313/tags/pytorch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rasbian</title>
+      <link>http://localhost:1313/tags/rasbian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/rasbian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/tags/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retinal Image Enhancement</title>
+      <link>http://localhost:1313/tags/retinal-image-enhancement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/retinal-image-enhancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S3</title>
+      <link>http://localhost:1313/tags/s3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/s3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schrodinger Bridge</title>
+      <link>http://localhost:1313/tags/schrodinger-bridge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/schrodinger-bridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service and Maintainence</title>
+      <link>http://localhost:1313/tags/service-and-maintainence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/service-and-maintainence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoapUI</title>
+      <link>http://localhost:1313/tags/soapui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/soapui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>http://localhost:1313/tags/sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQS</title>
+      <link>http://localhost:1313/tags/sqs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/sqs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Style Tranfer</title>
+      <link>http://localhost:1313/tags/style-tranfer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/style-tranfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-Series</title>
+      <link>http://localhost:1313/tags/time-series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/time-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer GAN</title>
+      <link>http://localhost:1313/tags/transfer-gan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/transfer-gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformers</title>
+      <link>http://localhost:1313/tags/transformers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/transformers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U-Net</title>
+      <link>http://localhost:1313/tags/u-net/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/u-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WACV2025</title>
+      <link>http://localhost:1313/tags/wacv2025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/wacv2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

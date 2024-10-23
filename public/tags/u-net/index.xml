@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>U-Net on Vamsi Krishna Vasa</title>
+    <link>http://localhost:1313/tags/u-net/</link>
+    <description>Recent content in U-Net on Vamsi Krishna Vasa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/tags/u-net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>STA-Unet: Rethink the semantic redundant for Medical Imaging Segmentation</title>
+      <link>http://localhost:1313/blog/sta-unet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/sta-unet/</guid>
+      <description>VK Vasa, W Zhu, X Chen, P Qiu, X Dong, Y Wang. Under review at WACV 2025 (Round 2)</description>
+    </item>
+    
+    <item>
+      <title>Polyp Segmentation in Gastro Intestinal Tract Endoscopy using Image to Image translation</title>
+      <link>http://localhost:1313/blog/polypseg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/polypseg/</guid>
+      <description>Master&amp;#39;s Thesis Part-1</description>
+    </item>
+    
+  </channel>
+</rss>

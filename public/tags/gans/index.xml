@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GANs on Vamsi Krishna Vasa</title>
+    <link>http://localhost:1313/tags/gans/</link>
+    <description>Recent content in GANs on Vamsi Krishna Vasa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/tags/gans/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Context-Aware Optimal Transport Learning for Retinal Fundus Image Enhancement</title>
+      <link>http://localhost:1313/blog/context-ot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/context-ot/</guid>
+      <description>VK Vasa, P Qiu, W Zhu, Y Xiong, O Dumitrascu, Y Wang. Under review at WACV 2025 (Round 2)</description>
+    </item>
+    
+    <item>
+      <title>Polyp Segmentation in Gastro Intestinal Tract Endoscopy using Image to Image translation</title>
+      <link>http://localhost:1313/blog/polypseg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/polypseg/</guid>
+      <description>Master&amp;#39;s Thesis Part-1</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Researcher</title>
+      <link>http://localhost:1313/experience/gsl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/gsl/</guid>
+      <description>Geometry Systems Laboratory @ ASU| Tempe AZ, USA</description>
+    </item>
+    
+  </channel>
+</rss>
