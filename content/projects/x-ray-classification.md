@@ -5,7 +5,7 @@ dateString: Dec 2023
 draft: false
 tags: ["DEVS", "Modeling and Simulation", "Digital Twin"]
 showToc: false
-weight: 203
+weight: 204
 cover:
     image: "projects/x-ray-classification/cover.jpg"
 --- 

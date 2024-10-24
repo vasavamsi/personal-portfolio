@@ -5,7 +5,7 @@ dateString: Oct 2023 - Dec 2023
 draft: false
 tags: ["3D Meshes", "3D Transformation"]
 showToc: false
-weight: 203
+weight: 206
 cover:
     image: "projects/spherical-map/cover.jpg"
 --- 

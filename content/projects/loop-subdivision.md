@@ -5,7 +5,7 @@ dateString: Sept 2023 - Oct 2023
 draft: false
 tags: ["Half-edge", "3D Meshes", "Computer Graphics"]
 showToc: false
-weight: 203
+weight: 205
 cover:
     image: "projects/loop-subdivision/cover.png"
 --- 

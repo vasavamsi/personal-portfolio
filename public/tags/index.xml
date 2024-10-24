@@ -259,6 +259,15 @@
     </item>
     
     <item>
+      <title>Keras</title>
+      <link>http://localhost:1313/tags/keras/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lambda</title>
       <link>http://localhost:1313/tags/lambda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -282,6 +291,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/modeling-and-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling and Simulation</title>
+      <link>http://localhost:1313/tags/modelling-and-simulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/modelling-and-simulation/</guid>
       <description></description>
     </item>
     
@@ -435,6 +453,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/style-tranfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Fusion Tranformer</title>
+      <link>http://localhost:1313/tags/temporal-fusion-tranformer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/temporal-fusion-tranformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series Forecasting</title>
+      <link>http://localhost:1313/tags/time-series-forecasting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/time-series-forecasting/</guid>
       <description></description>
     </item>
     

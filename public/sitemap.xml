@@ -12,19 +12,21 @@
   </url><url>
     <loc>http://localhost:1313/blog/polypseg/</loc>
   </url><url>
+    <loc>http://localhost:1313/projects/idle-time/</loc>
+  </url><url>
     <loc>http://localhost:1313/projects/cloud-app/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/x-ray-classification/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/loop-subdivision/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/skate-board/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/panaroma/</loc>
+    <loc>http://localhost:1313/projects/spherical-map/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/fire-evac/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/spherical-map/</loc>
+    <loc>http://localhost:1313/projects/skate-board/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/panaroma/</loc>
   </url><url>
     <loc>http://localhost:1313/experience/acims/</loc>
   </url><url>
@@ -100,11 +102,15 @@
   </url><url>
     <loc>http://localhost:1313/tags/jira/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/keras/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/lambda/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/medical-imaging/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/modeling-and-simulation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/modelling-and-simulation/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/multi-organ-segmenation/</loc>
   </url><url>
@@ -145,6 +151,10 @@
     <loc>http://localhost:1313/tags/style-tranfer/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/temporal-fusion-tranformer/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/time-series-forecasting/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/time-series/</loc>
   </url><url>

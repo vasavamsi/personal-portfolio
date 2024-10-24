@@ -16,21 +16,21 @@
     </item>
     
     <item>
-      <title>Modelling and Simulating the Skateboard using DEVS Simulator</title>
-      <link>http://localhost:1313/projects/skate-board/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/skate-board/</guid>
-      <description>Java based Digital Twin. Completed as a part of Course project in CSE-561 Modelling, Simulation and Theory of applications</description>
-    </item>
-    
-    <item>
       <title>Simulating Fire Evacuation at Hayden library using DEVS Simulator</title>
       <link>http://localhost:1313/projects/fire-evac/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/fire-evac/</guid>
       <description>Java based Digital Twin for real time Safety evacaution. Completed as a part of Course project in CSE-561 Modelling, Simulation and Theory of applications</description>
+    </item>
+    
+    <item>
+      <title>Modelling and Simulating the Skateboard using DEVS Simulator</title>
+      <link>http://localhost:1313/projects/skate-board/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/skate-board/</guid>
+      <description>Java based Digital Twin. Completed as a part of Course project in CSE-561 Modelling, Simulation and Theory of applications</description>
     </item>
     
   </channel>

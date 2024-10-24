@@ -5,7 +5,7 @@ dateString: Oct 2023 - Dec 2023
 draft: false
 tags: ["DEVS", "Modeling and Simulation", "Digital Twin"]
 showToc: false
-weight: 203
+weight: 208
 cover:
     image: "projects/skate-board/cover.png"
 --- 

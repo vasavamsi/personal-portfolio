@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Machine State prediction using the Temporal Fusion Transformers for Semicoductor fabrication</title>
+      <link>http://localhost:1313/projects/idle-time/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/idle-time/</guid>
+      <description>This project explores the capabilities of Transformers for Time Series Forecasting</description>
+    </item>
+    
+    <item>
       <title>AWS Elastic Application for facial recognition</title>
       <link>http://localhost:1313/projects/cloud-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -34,6 +43,24 @@
     </item>
     
     <item>
+      <title>Spherical Conformal Mapping using Python</title>
+      <link>http://localhost:1313/projects/spherical-map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/spherical-map/</guid>
+      <description>Python implementation of paper Genus Zero Surface Conformal Mapping</description>
+    </item>
+    
+    <item>
+      <title>Simulating Fire Evacuation at Hayden library using DEVS Simulator</title>
+      <link>http://localhost:1313/projects/fire-evac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/fire-evac/</guid>
+      <description>Java based Digital Twin for real time Safety evacaution. Completed as a part of Course project in CSE-561 Modelling, Simulation and Theory of applications</description>
+    </item>
+    
+    <item>
       <title>Modelling and Simulating the Skateboard using DEVS Simulator</title>
       <link>http://localhost:1313/projects/skate-board/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -49,24 +76,6 @@
       
       <guid>http://localhost:1313/projects/panaroma/</guid>
       <description>This work is completed as a part of Course assignment in 3D Computer Vision at IIT Gandhinagar</description>
-    </item>
-    
-    <item>
-      <title>Simulating Fire Evacuation at Hayden library using DEVS Simulator</title>
-      <link>http://localhost:1313/projects/fire-evac/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/fire-evac/</guid>
-      <description>Java based Digital Twin for real time Safety evacaution. Completed as a part of Course project in CSE-561 Modelling, Simulation and Theory of applications</description>
-    </item>
-    
-    <item>
-      <title>Spherical Conformal Mapping using Python</title>
-      <link>http://localhost:1313/projects/spherical-map/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/spherical-map/</guid>
-      <description>Python implementation of paper Genus Zero Surface Conformal Mapping</description>
     </item>
     
   </channel>
