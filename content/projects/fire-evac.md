@@ -22,11 +22,12 @@ The population control can be a user defined input, which is coded in the genera
 
 We have provided certain limitations on the flow of patrons and stairway capacity to keep the simulation realistic (these restrictions are discussed in Simulation Experiments and Evaluation sections). Once the patrons are evacuated from the components (classrooms, discussion rooms, etc.) the phase will change to safe. We maintain the population count at each level in the staircase model and will signal the transducer as we complete the evacuation of each level. By obtaining these signals, the transducer will note the time taken to evacuate each level, with the given conditions. The staircase model will go into phase safe once the complete building is evacuated. The next section will provide detailed specification tables for each model component. The image below shows the Simview of the model from DEVS Simulator.
 
-## Demonstration
+The demonstration of this model can be found <a href="https://drive.google.com/file/d/1K369RMjB3aV83JZnjMkYlNfBfDkSt38Y/view" style="color: orange;">here</a>. The detailed report with experiments and observations can be found <a href="https://drive.google.com/file/d/1B7-hTQyS30_jt2kEqfsjBuMOjCsrl5Cx/view" style="color: orange;">here</a>.
 
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1K369RMjB3aV83JZnjMkYlNfBfDkSt38Y/view" frameborder="0" allowfullscreen></iframe>
+
+<!-- ## Demonstration
 
 The demonstration of this model can be found here. The detailed report with experiments and observations can be found here.
 Note:- To understand the Installations and Executing simulations on DEVS simulator, please go through our previous work here here
 
-The demonstration of this model can be found here. The detailed report with experiments and observations can be found here.
+The demonstration of this model can be found here. The detailed report with experiments and observations can be found here. -->
