@@ -1,6 +1,6 @@
 ---
 title: "STA-Unet: Rethink the semantic redundant for Medical Imaging Segmentation"
-description: VK Vasa, W Zhu, X Chen, P Qiu, X Dong, Y Wang. Under review at WACV 2025 (Round 2)
+description: VK Vasa, W Zhu, X Chen, P Qiu, X Dong, Y Wang.
 dateString: Oct 2024
 draft: false
 tags: ["U-Net", "Transformers", "Multi-Organ Segmentation", "WACV2025"]

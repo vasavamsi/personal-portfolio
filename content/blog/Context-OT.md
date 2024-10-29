@@ -1,6 +1,6 @@
 ---
 title: "Context-Aware Optimal Transport Learning for Retinal Fundus Image Enhancement"
-description: "VK Vasa, P Qiu, W Zhu, Y Xiong, O Dumitrascu, Y Wang. Under review at WACV 2025 (Round 2)"
+description: "VK Vasa, P Qiu, W Zhu, Y Xiong, O Dumitrascu, Y Wang. Accepted at WACV 2025 (Round 2)"
 dateString: Sept 2024
 draft: false
 tags: ["Contextual loss", "Optimal Transport", "GANs", "WACV2025",  "Retinal Image Enhancement"]
