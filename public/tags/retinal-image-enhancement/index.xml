@@ -7,12 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://localhost:1313/tags/retinal-image-enhancement/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>EyeBench: A Call for More Rigorous Evaluation of Retinal Image Denoising</title>
+      <link>http://localhost:1313/blog/eyebench/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/eyebench/</guid>
+      <description>Wenhui Zhu, Xuanzhao Dong, Xin Li, Yujian Xiong, Xiwen Chen, Peijie Qiu, Vamsi Krishna Vasa, Zhangsihao Yang, Yalin Wang. Under review at CVPR 2025</description>
+    </item>
+    
+    <item>
       <title>Context-Aware Optimal Transport Learning for Retinal Fundus Image Enhancement</title>
       <link>http://localhost:1313/blog/context-ot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/blog/context-ot/</guid>
-      <description>VK Vasa, P Qiu, W Zhu, Y Xiong, O Dumitrascu, Y Wang. Accepted at **WACV 2025 (Round 2)**</description>
+      <description>VK Vasa, P Qiu, W Zhu, Y Xiong, O Dumitrascu, Y Wang.     Accepted at WACV 2025 (Round 2)</description>
     </item>
     
     <item>
@@ -21,7 +30,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/blog/cunsb-rfie/</guid>
-      <description>Xuanzhao Dong, Vamsi Krishna Vasa, Wenhui Zhu, Peijie Qiu, Xiwen Chen, Yi Su, Yujian Xiong, Zhangsihao Yang, Yanxi Chen, Yalin Wang. Under review at WACV2025 (Round 2)</description>
+      <description>Xuanzhao Dong, Vamsi Krishna Vasa, Wenhui Zhu, Peijie Qiu, Xiwen Chen, Yi Su, Yujian Xiong, Zhangsihao Yang, Yanxi Chen, Yalin Wang. Accepted at WACV2025 (Round 2)</description>
     </item>
     
   </channel>

@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blog/eyebench/</loc>
+  </url><url>
     <loc>http://localhost:1313/blog/sta-unet/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/context-ot/</loc>
@@ -52,6 +54,8 @@
   </url><url>
     <loc>http://localhost:1313/tags/batch-process/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/benchmark/</loc>
+  </url><url>
     <loc>http://localhost:1313/blog/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
@@ -65,6 +69,8 @@
     <loc>http://localhost:1313/tags/contectual-loss/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/contextual-loss/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/cvpr2025/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/deep-learning/</loc>
   </url><url>
