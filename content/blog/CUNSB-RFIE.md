@@ -10,9 +10,16 @@ cover:
     # caption: "A sample landmark detection on a photo by Ayo Ogunseinde taken from Unsplash"
 ---
 
+The work will be presented in the poster presentation session at WACV 2025 in Tucson, AZ. I am also honored to receive the Exponential Learning Grant to present this work.
+
 ## Abstract
 
 Retinal fundus photography is significant in diagnosing and monitoring retinal diseases. However, systemic imperfections and operator/patient-related factors can hinder the acquisition of high-quality retinal images. Previous efforts in retinal image enhancement primarily relied on GANs, which are limited by the trade-off between training stability and output diversity. In contrast, the Schrödinger Bridge (SB), offers a more stable solution by utilizing Optimal Transport (OT) theory to model a stochastic differential equation (SDE) between two arbitrary distributions. This allows SB to effectively transform low-quality retinal images into their high-quality counterparts. In this work, we leverage the SB framework to propose an image-to-image translation pipeline for retinal image enhancement. Additionally, previous methods often fail to capture fine structural details, such as blood vessels. To address this, we enhance our pipeline by introducing Dynamic Snake Convolution, whose tortuous receptive field can better preserve tubular structures. We name the resulting retinal fundus image enhancement framework the Context-aware Unpaired Neural Schrödinger Bridge (CUNSB-RFIE). To the best of our knowledge, this is the first endeavor to use the SB approach for retinal image enhancement. Experimental results on a large-scale dataset demonstrate the advantage of the proposed method compared to several state-of-the-art supervised and unsupervised methods in terms of image quality and performance on downstream tasks.
+
+## Poster 
+
+![](/blog/cunsb-rfie/wacv25-2097.png#center)
+<!-- ![](/projects/idle-time/model-training.png#center) -->
 
 # Collaborators
 
@@ -21,5 +28,5 @@ Retinal fundus photography is significant in diagnosing and monitoring retinal d
 - Medical Imaging and Data Science (MINDS) Lab, Washington University in St. Louis
 
 🔗 [Paper Pre-print](https://arxiv.org/abs/2409.10966)
-
+🔗 [Short Presentation](https://drive.google.com/file/d/1X-hUia_VKMCUQx_mat0pmMdq5il3J6iw/view?usp=sharing)
 🔗 [Code](https://github.com/Retinal-Research/CUNSB-RFIE/tree/main)
