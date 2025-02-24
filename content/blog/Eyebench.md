@@ -2,11 +2,11 @@
 title: "EyeBench: A Call for More Rigorous Evaluation of Retinal Image Denoising"
 description: "Wenhui Zhu, Xuanzhao Dong, Xin Li, Yujian Xiong, Xiwen Chen, Peijie Qiu, Vamsi Krishna Vasa, Zhangsihao Yang, Yalin Wang. Under review at CVPR 2025"
 dateString: Nov 2024
-draft: true
+draft: false
 tags: ["Benchmark", "CVPR2025",  "Retinal Image Enhancement"]
 weight: 101
 cover:
-    image: "/blog/Eyebench/cover.jpg"
+    image: "/blog/Eyebench/cover_new.jpg"
 ---
 
 ## Abstract
@@ -18,9 +18,10 @@ With the advancement of generative models,  fundus image denoising has seen sign
 - Mayo Clinic, Phoenix AZ
 - School of Computing, Clemson University
 - Medical Imaging and Data Science (MINDS) Lab, Washington University in St. Louis
+- Banner Alzheimer’s Institute
 
-🔗 [Paper Pre-print and Code] (releasing soon)
+<!-- 🔗 [Paper Pre-print and Code] (releasing soon) -->
 
-<!-- 🔗 [Paper Pre-print](https://arxiv.org/abs/2409.07862)
+🔗 [Paper Pre-print](https://arxiv.org/abs/2502.14260)
 
-🔗 [Code](https://github.com/Retinal-Research/Contextual-OT) -->
+<!-- 🔗 [Code](https://github.com/Retinal-Research/Contextual-OT) -->
