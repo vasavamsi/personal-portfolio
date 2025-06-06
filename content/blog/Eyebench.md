@@ -1,9 +1,9 @@
 ---
 title: "EyeBench: A Call for More Rigorous Evaluation of Retinal Image Denoising"
-description: "Wenhui Zhu, Xuanzhao Dong, Xin Li, Yujian Xiong, Xiwen Chen, Peijie Qiu, Vamsi Krishna Vasa, Zhangsihao Yang, Yalin Wang. Under review at CVPR 2025"
+description: "W Zhu, X Dong, X Li, Y Xiong, X Chen, P Qiu, VK Vasa, Z Yang, Y Wang. (Pre-print available)"
 dateString: Nov 2024
 draft: false
-tags: ["Benchmark", "CVPR2025",  "Retinal Image Enhancement"]
+tags: ["Benchmark",  "Retinal Image Enhancement", "Image quality assessment", "Medical expert annotations", "Clinic preference alignment"]
 weight: 101
 cover:
     image: "/blog/Eyebench/cover_new.jpg"

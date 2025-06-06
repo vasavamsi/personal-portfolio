@@ -7,12 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>RetinalGPT: A Retinal Clinical Preference Conversational Assistant Powered by Large Vision-Language Models</title>
+      <link>http://localhost:1313/blog/retinalgpt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/retinalgpt/</guid>
+      <description>W Zhu, X Li, X Chen, P Qiu, VK Vasa, X Dong, Y Chen, N Lepore, O Dumitrascu, Y Su, Y Wang. (Pre-Print available)</description>
+    </item>
+    
+    <item>
+      <title>Many-MobileNet: Multi-model Augmentation for Robust Retinal Disease Classification</title>
+      <link>http://localhost:1313/blog/many-mobilenet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/many-mobilenet/</guid>
+      <description>H Wang, W Zhu, X Dong, Y Chen, X Li, P Qiu, X Chen, VK Vasa, Y Xiong, O Dumitrascu, A Razi, Y Wang.     (MICCAI Challenge on Ultra-Widefield Fundus Imaging for Diabetic Retinopathy)</description>
+    </item>
+    
+    <item>
       <title>EyeBench: A Call for More Rigorous Evaluation of Retinal Image Denoising</title>
       <link>http://localhost:1313/blog/eyebench/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/blog/eyebench/</guid>
-      <description>Wenhui Zhu, Xuanzhao Dong, Xin Li, Yujian Xiong, Xiwen Chen, Peijie Qiu, Vamsi Krishna Vasa, Zhangsihao Yang, Yalin Wang. Under review at CVPR 2025</description>
+      <description>W Zhu, X Dong, X Li, Y Xiong, X Chen, P Qiu, VK Vasa, Z Yang, Y Wang. (Pre-print available)</description>
     </item>
     
     <item>
@@ -39,7 +57,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/blog/cunsb-rfie/</guid>
-      <description>Xuanzhao Dong, Vamsi Krishna Vasa, Wenhui Zhu, Peijie Qiu, Xiwen Chen, Yi Su, Yujian Xiong, Zhangsihao Yang, Yanxi Chen, Yalin Wang. Accepted at WACV2025 (Round 2)</description>
+      <description>X Dong, VK Vasa, W Zhu, P Qiu, X Chen, Y Su, Y Xiong, Z Yang, Y Chen, Y Wang. Accepted at WACV2025 (Round 2)</description>
     </item>
     
     <item>

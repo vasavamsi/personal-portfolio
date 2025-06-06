@@ -79,6 +79,24 @@
     </item>
     
     <item>
+      <title>Classification</title>
+      <link>http://localhost:1313/tags/classification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinic Preference Alignment</title>
+      <link>http://localhost:1313/tags/clinic-preference-alignment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/clinic-preference-alignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Computer Graphics</title>
       <link>http://localhost:1313/tags/computer-graphics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -115,11 +133,11 @@
     </item>
     
     <item>
-      <title>CVPR2025</title>
-      <link>http://localhost:1313/tags/cvpr2025/</link>
+      <title>Conversational AI Assistants</title>
+      <link>http://localhost:1313/tags/conversational-ai-assistants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/cvpr2025/</guid>
+      <guid>http://localhost:1313/tags/conversational-ai-assistants/</guid>
       <description></description>
     </item>
     
@@ -138,6 +156,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/devs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diabetic Retinopathy</title>
+      <link>http://localhost:1313/tags/diabetic-retinopathy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/diabetic-retinopathy/</guid>
       <description></description>
     </item>
     
@@ -205,6 +232,24 @@
     </item>
     
     <item>
+      <title>Foundation Model</title>
+      <link>http://localhost:1313/tags/foundation-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/foundation-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundus Image</title>
+      <link>http://localhost:1313/tags/fundus-image/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/fundus-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GANs</title>
       <link>http://localhost:1313/tags/gans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -259,6 +304,15 @@
     </item>
     
     <item>
+      <title>Image Quality Assessment</title>
+      <link>http://localhost:1313/tags/image-quality-assessment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/image-quality-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jekins</title>
       <link>http://localhost:1313/tags/jekins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -291,6 +345,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/lambda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical Expert Annotations</title>
+      <link>http://localhost:1313/tags/medical-expert-annotations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/medical-expert-annotations/</guid>
       <description></description>
     </item>
     
@@ -336,6 +399,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/multi-organ-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal</title>
+      <link>http://localhost:1313/tags/multimodal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/multimodal/</guid>
       <description></description>
     </item>
     
@@ -399,6 +471,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retinal Diseases</title>
+      <link>http://localhost:1313/tags/retinal-diseases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/retinal-diseases/</guid>
       <description></description>
     </item>
     
@@ -525,6 +606,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/u-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultra-Widefield Fundus Imaging</title>
+      <link>http://localhost:1313/tags/ultra-widefield-fundus-imaging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ultra-widefield-fundus-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision Language Model</title>
+      <link>http://localhost:1313/tags/vision-language-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/vision-language-model/</guid>
       <description></description>
     </item>
     

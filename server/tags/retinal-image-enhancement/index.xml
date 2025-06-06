@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Retinal Image Enhancement on Vamsi Krishna Vasa</title>
+    <link>https://vasavamsi.netlify.app/tags/retinal-image-enhancement/</link>
+    <description>Recent content in Retinal Image Enhancement on Vamsi Krishna Vasa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vasavamsi.netlify.app/tags/retinal-image-enhancement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EyeBench: A Call for More Rigorous Evaluation of Retinal Image Denoising</title>
+      <link>https://vasavamsi.netlify.app/blog/eyebench/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vasavamsi.netlify.app/blog/eyebench/</guid>
+      <description>Wenhui Zhu, Xuanzhao Dong, Xin Li, Yujian Xiong, Xiwen Chen, Peijie Qiu, Vamsi Krishna Vasa, Zhangsihao Yang, Yalin Wang. Under review at CVPR 2025</description>
+    </item>
+    
+    <item>
+      <title>Context-Aware Optimal Transport Learning for Retinal Fundus Image Enhancement</title>
+      <link>https://vasavamsi.netlify.app/blog/context-ot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vasavamsi.netlify.app/blog/context-ot/</guid>
+      <description>VK Vasa, P Qiu, W Zhu, Y Xiong, O Dumitrascu, Y Wang.     Accepted at WACV 2025 (Round 2)</description>
+    </item>
+    
+    <item>
+      <title>CUNSB-RFIE: Context-aware Unpaired Neural Schrödinger Bridge in Retinal Fundus Image Enhancement</title>
+      <link>https://vasavamsi.netlify.app/blog/cunsb-rfie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vasavamsi.netlify.app/blog/cunsb-rfie/</guid>
+      <description>Xuanzhao Dong, Vamsi Krishna Vasa, Wenhui Zhu, Peijie Qiu, Xiwen Chen, Yi Su, Yujian Xiong, Zhangsihao Yang, Yanxi Chen, Yalin Wang. Accepted at WACV2025 (Round 2)</description>
+    </item>
+    
+  </channel>
+</rss>

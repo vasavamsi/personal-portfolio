@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PyTorch on Vamsi Krishna Vasa</title>
+    <link>https://vasavamsi.netlify.app/tags/pytorch/</link>
+    <description>Recent content in PyTorch on Vamsi Krishna Vasa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vasavamsi.netlify.app/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Learning Researcher</title>
+      <link>https://vasavamsi.netlify.app/experience/gsl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vasavamsi.netlify.app/experience/gsl/</guid>
+      <description>Geometry Systems Laboratory @ ASU| Tempe AZ, USA</description>
+    </item>
+    
+    <item>
+      <title>Computer Vision Intern</title>
+      <link>https://vasavamsi.netlify.app/experience/cdac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vasavamsi.netlify.app/experience/cdac/</guid>
+      <description>Center for Development of Advanced Computing (C-DAC) | Hyderabad, India</description>
+    </item>
+    
+  </channel>
+</rss>

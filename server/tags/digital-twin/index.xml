@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Digital Twin on Vamsi Krishna Vasa</title>
+    <link>https://vasavamsi.netlify.app/tags/digital-twin/</link>
+    <description>Recent content in Digital Twin on Vamsi Krishna Vasa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vasavamsi.netlify.app/tags/digital-twin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GradCAM implementation on X-ray classification</title>
+      <link>https://vasavamsi.netlify.app/projects/x-ray-classification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vasavamsi.netlify.app/projects/x-ray-classification/</guid>
+      <description>Understanding medical dataset using X-rays.</description>
+    </item>
+    
+    <item>
+      <title>Simulating Fire Evacuation at Hayden library using DEVS Simulator</title>
+      <link>https://vasavamsi.netlify.app/projects/fire-evac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vasavamsi.netlify.app/projects/fire-evac/</guid>
+      <description>Java based Digital Twin for real time Safety evacaution. Completed as a part of Course project in CSE-561 Modelling, Simulation and Theory of applications</description>
+    </item>
+    
+    <item>
+      <title>Modelling and Simulating the Skateboard using DEVS Simulator</title>
+      <link>https://vasavamsi.netlify.app/projects/skate-board/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vasavamsi.netlify.app/projects/skate-board/</guid>
+      <description>Java based Digital Twin. Completed as a part of Course project in CSE-561 Modelling, Simulation and Theory of applications</description>
+    </item>
+    
+  </channel>
+</rss>

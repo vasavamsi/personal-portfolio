@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Modelling and Simulating the Skateboard using DEVS Simulator | Vamsi Krishna Vasa</title>
+<meta name="keywords" content="DEVS, Modeling and Simulation, Digital Twin">
+<meta name="description" content="Java based Digital Twin. Completed as a part of Course project in CSE-561 Modelling, Simulation and Theory of applications">
+<meta name="author" content="">
+<link rel="canonical" href="https://vasavamsi.netlify.app/projects/skate-board/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.min.2b833c6baa7a96407c2417c7a4049985b42c21cccc2472abf4603967eafd2273.css" integrity="sha256-K4M8a6p6lkB8JBfHpASZhbQsIczMJHKr9GA5Z&#43;r9InM=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.min.2eadbb982468c11a433a3e291f01326f2ba43f065e256bf792dbd79640a92316.js" integrity="sha256-Lq27mCRowRpDOj4pHwEybyukPwZeJWv3ktvXlkCpIxY="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<link rel="icon" href="https://vasavamsi.netlify.app/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://vasavamsi.netlify.app/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://vasavamsi.netlify.app/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://vasavamsi.netlify.app/apple-touch-icon.png">
+<link rel="mask-icon" href="https://vasavamsi.netlify.app/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="https://vasavamsi.netlify.app/projects/skate-board/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:title" content="Modelling and Simulating the Skateboard using DEVS Simulator" />
+<meta property="og:description" content="Java based Digital Twin. Completed as a part of Course project in CSE-561 Modelling, Simulation and Theory of applications" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://vasavamsi.netlify.app/projects/skate-board/" />
+<meta property="og:image" content="https://vasavamsi.netlify.app/projects/skate-board/cover.png" /><meta property="article:section" content="projects" />
+
+
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://vasavamsi.netlify.app/projects/skate-board/cover.png" />
+<meta name="twitter:title" content="Modelling and Simulating the Skateboard using DEVS Simulator"/>
+<meta name="twitter:description" content="Java based Digital Twin. Completed as a part of Course project in CSE-561 Modelling, Simulation and Theory of applications"/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Projects",
+      "item": "https://vasavamsi.netlify.app/projects/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Modelling and Simulating the Skateboard using DEVS Simulator",
+      "item": "https://vasavamsi.netlify.app/projects/skate-board/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Modelling and Simulating the Skateboard using DEVS Simulator",
+  "name": "Modelling and Simulating the Skateboard using DEVS Simulator",
+  "description": "Java based Digital Twin. Completed as a part of Course project in CSE-561 Modelling, Simulation and Theory of applications",
+  "keywords": [
+    "DEVS", "Modeling and Simulation", "Digital Twin"
+  ],
+  "articleBody": "🔗 Github Summary This project is completed as a part of assignment for CSE-561 Modelling, Simulation and Theory of applications. This work leverages the state-of-the-art DEVS simulator to develop the model for Skateboard Generator, Skateboard Transducer and Skateboard models. We also couple these models to create the couple model.\nPre-installations This project utilizes the DEVS Simulator package and needs the same to be installed in your device for running the project. The Source code along with documentation for DEVS Simulator version 6.1.0 can be found here. Some of the prior neccessities to be installed are either of JRE versions from 1.8, 11.02, 11.10 and 15.02 and Maven. It is also recommended to install ‘Eclipse IDE for JAVA developers’, you can find the installation details for the same here.\nRunning the simulation After downloading the Simulator packaged in your local device, navigate to the folder “DEVS-Suite-Mixerd_Win64_6.1.0\\Models\\Component\\BasicProcessor” and place the .java files from this repository here. Follow the steps as below:\nStep 1 - Expand the Package Explorer in the left of the IDE and double click on controller pack (as shown in image below). Now, hower over ‘Run As’ option and select ‘1 Java Application’.\nStep 2 - Select ‘Component Models’ in the UI.\nStep 3 - Now select the Package as ‘Component.BasicProcessor’ and Model as any of the desired models provided in this pack. Check the boxes for SimView for Visualization of the model and Tracking to track the simulation.\nStep 4 - Now provide the desired inputs and hit the ‘Step’ button to run the simulation for one step and so on. You can set n desired steps using ‘Step(n)’ button.\nNote - The inputs for each model and coupled model can be modified or increased in the code using the function addTestInput.\nImplementation of coupled model:\n",
+  "wordCount" : "298",
+  "inLanguage": "en",
+  "image":"https://vasavamsi.netlify.app/projects/skate-board/cover.png","datePublished": "0001-01-01T00:00:00Z",
+  "dateModified": "0001-01-01T00:00:00Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://vasavamsi.netlify.app/projects/skate-board/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Vamsi Krishna Vasa",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://vasavamsi.netlify.app/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header sticky-header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://vasavamsi.netlify.app/" accesskey="h" title="Vamsi Krishna Vasa (Alt + H)">Vamsi Krishna Vasa</a>
+            <span class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+                <ul class="lang-switch"><li>|</li>
+                </ul>
+            </span>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://vasavamsi.netlify.app/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://vasavamsi.netlify.app/blog" title="Publications">
+                    <span>Publications</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://vasavamsi.netlify.app/projects" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://vasavamsi.netlify.app/experience" title="Experience">
+                    <span>Experience</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://vasavamsi.netlify.app/search" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="https://vasavamsi.netlify.app/">Home</a>&nbsp;»&nbsp;<a href="https://vasavamsi.netlify.app/projects/">Projects</a></div>
+    <h1 class="post-title">
+      Modelling and Simulating the Skateboard using DEVS Simulator
+    </h1>
+    <div class="post-description">
+      Java based Digital Twin. Completed as a part of Course project in CSE-561 Modelling, Simulation and Theory of applications
+    </div>
+    <div class="post-meta">
+
+
+Oct 2023 - Dec 2023
+
+</div>
+  </header> 
+<figure class="entry-cover"><img loading="lazy" src="https://vasavamsi.netlify.app/projects/skate-board/cover.png" alt="">
+        
+</figure>
+  <div class="post-content"><h3 id="-githubhttpsgithubcomvasavamsimodelling-and-simulating-the-skateboard-using-devs-simulator">🔗 <a href="https://github.com/vasavamsi/Modelling-and-Simulating-the-Skateboard-using-DEVS-Simulator">Github</a><a hidden class="anchor" aria-hidden="true" href="#-githubhttpsgithubcomvasavamsimodelling-and-simulating-the-skateboard-using-devs-simulator">#</a></h3>
+<h2 id="summary">Summary<a hidden class="anchor" aria-hidden="true" href="#summary">#</a></h2>
+<p>This project is completed as a part of assignment for CSE-561 Modelling, Simulation and Theory of applications. This work leverages the state-of-the-art DEVS simulator to develop the model for Skateboard Generator, Skateboard Transducer and Skateboard models. We also couple these models to create the couple model.</p>
+<h2 id="pre-installations">Pre-installations<a hidden class="anchor" aria-hidden="true" href="#pre-installations">#</a></h2>
+<p>This project utilizes the DEVS Simulator package and needs the same to be installed in your device for running the project. The Source code along with documentation for DEVS Simulator version 6.1.0 can be found <a href="https://sourceforge.net/projects/devs-suitesim/files/DEVS_Suite_6.1.0/" style="color: orange;">here</a>. Some of the prior neccessities to be installed are either of JRE versions from 1.8, 11.02, 11.10 and 15.02 and Maven. It is also recommended to install &lsquo;Eclipse IDE for JAVA developers&rsquo;, you can find the installation details for the same <a href="https://www.eclipse.org/downloads/packages/installer">here</a>.</p>
+<h2 id="running-the-simulation">Running the simulation<a hidden class="anchor" aria-hidden="true" href="#running-the-simulation">#</a></h2>
+<p>After downloading the Simulator packaged in your local device, navigate to the folder &ldquo;DEVS-Suite-Mixerd_Win64_6.1.0\Models\Component\BasicProcessor&rdquo; and place the .java files from this repository here. Follow the steps as below:</p>
+<p>Step 1 - Expand the Package Explorer in the left of the IDE and double click on controller pack (as shown in image below). Now, hower over &lsquo;Run As&rsquo; option and select &lsquo;1 Java Application&rsquo;.</p>
+<p><img loading="lazy" src="/projects/skate-board/1.png#center" alt=""  />
+</p>
+<p>Step 2 - Select &lsquo;Component Models&rsquo; in the UI.</p>
+<p><img loading="lazy" src="/projects/skate-board/2.png#center" alt=""  />
+</p>
+<p>Step 3 - Now select the Package as &lsquo;Component.BasicProcessor&rsquo; and Model as any of the desired models provided in this pack. Check the boxes for SimView for Visualization of the model and Tracking to track the simulation.</p>
+<p><img loading="lazy" src="/projects/skate-board/3.png#center" alt=""  />
+</p>
+<p>Step 4 - Now provide the desired inputs and hit the &lsquo;Step&rsquo; button to run the simulation for one step and so on. You can set n desired steps using &lsquo;Step(n)&rsquo; button.</p>
+<p><img loading="lazy" src="/projects/skate-board/4.png#center" alt=""  />
+</p>
+<p>Note - The inputs for each model and coupled model can be modified or increased in the code using the function addTestInput.</p>
+<p>Implementation of coupled model:</p>
+<p><img loading="lazy" src="/projects/skate-board/5.png#center" alt=""  />
+</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://vasavamsi.netlify.app/tags/devs/">DEVS</a></li>
+      <li><a href="https://vasavamsi.netlify.app/tags/modeling-and-simulation/">Modeling and Simulation</a></li>
+      <li><a href="https://vasavamsi.netlify.app/tags/digital-twin/">Digital Twin</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2025 <a href="https://vasavamsi.netlify.app/">Vamsi Krishna Vasa</a></span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>

@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blog/retinalgpt/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/many-mobilenet/</loc>
+  </url><url>
     <loc>http://localhost:1313/blog/eyebench/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/sta-unet/</loc>
@@ -62,6 +66,10 @@
   </url><url>
     <loc>http://localhost:1313/tags/ci/cd/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/classification/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/clinic-preference-alignment/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/computer-graphics/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/computer-vision/</loc>
@@ -70,11 +78,13 @@
   </url><url>
     <loc>http://localhost:1313/tags/contextual-loss/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/cvpr2025/</loc>
+    <loc>http://localhost:1313/tags/conversational-ai-assistants/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/deep-learning/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/devs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/diabetic-retinopathy/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/diffusion-model/</loc>
   </url><url>
@@ -92,6 +102,10 @@
   </url><url>
     <loc>http://localhost:1313/experience/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/foundation-model/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/fundus-image/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/gans/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/gatling/</loc>
@@ -104,6 +118,8 @@
   </url><url>
     <loc>http://localhost:1313/tags/image-processing/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/image-quality-assessment/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/jekins/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/jira/</loc>
@@ -111,6 +127,8 @@
     <loc>http://localhost:1313/tags/keras/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/lambda/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/medical-expert-annotations/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/medical-imaging/</loc>
   </url><url>
@@ -121,6 +139,8 @@
     <loc>http://localhost:1313/tags/multi-organ-segmenation/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/multi-organ-segmentation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/multimodal/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/non-functional-testing/</loc>
   </url><url>
@@ -137,6 +157,8 @@
     <loc>http://localhost:1313/tags/rasbian/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/research/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/retinal-diseases/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/retinal-image-enhancement/</loc>
   </url><url>
@@ -170,7 +192,11 @@
   </url><url>
     <loc>http://localhost:1313/tags/u-net/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/ultra-widefield-fundus-imaging/</loc>
+  </url><url>
     <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/vision-language-model/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/wacv2025/</loc>
   </url>

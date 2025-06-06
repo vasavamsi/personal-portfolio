@@ -1,7 +1,7 @@
 ---
 title: "CUNSB-RFIE: Context-aware Unpaired Neural Schrödinger Bridge in Retinal Fundus Image Enhancement"
-description: "Xuanzhao Dong, Vamsi Krishna Vasa, Wenhui Zhu, Peijie Qiu, Xiwen Chen, Yi Su, Yujian Xiong, Zhangsihao Yang, Yanxi Chen, Yalin Wang. Accepted at WACV2025 (Round 2)"
-dateString: Aug 2020
+description: "X Dong, VK Vasa, W Zhu, P Qiu, X Chen, Y Su, Y Xiong, Z Yang, Y Chen, Y Wang. Accepted at WACV2025 (Round 2)"
+dateString: Sept 2024
 draft: false
 tags: ["Diffusion Model", "Schrodinger Bridge", "WACV2025", "Retinal Image Enhancement"]
 weight: 106

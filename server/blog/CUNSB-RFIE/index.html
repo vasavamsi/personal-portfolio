@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>CUNSB-RFIE: Context-aware Unpaired Neural Schrödinger Bridge in Retinal Fundus Image Enhancement | Vamsi Krishna Vasa</title>
+<meta name="keywords" content="Diffusion Model, Schrodinger Bridge, WACV2025, Retinal Image Enhancement">
+<meta name="description" content="Xuanzhao Dong, Vamsi Krishna Vasa, Wenhui Zhu, Peijie Qiu, Xiwen Chen, Yi Su, Yujian Xiong, Zhangsihao Yang, Yanxi Chen, Yalin Wang. Accepted at WACV2025 (Round 2)">
+<meta name="author" content="">
+<link rel="canonical" href="https://vasavamsi.netlify.app/blog/cunsb-rfie/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.min.2b833c6baa7a96407c2417c7a4049985b42c21cccc2472abf4603967eafd2273.css" integrity="sha256-K4M8a6p6lkB8JBfHpASZhbQsIczMJHKr9GA5Z&#43;r9InM=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.min.2eadbb982468c11a433a3e291f01326f2ba43f065e256bf792dbd79640a92316.js" integrity="sha256-Lq27mCRowRpDOj4pHwEybyukPwZeJWv3ktvXlkCpIxY="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<link rel="icon" href="https://vasavamsi.netlify.app/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://vasavamsi.netlify.app/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://vasavamsi.netlify.app/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://vasavamsi.netlify.app/apple-touch-icon.png">
+<link rel="mask-icon" href="https://vasavamsi.netlify.app/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="https://vasavamsi.netlify.app/blog/cunsb-rfie/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:title" content="CUNSB-RFIE: Context-aware Unpaired Neural Schrödinger Bridge in Retinal Fundus Image Enhancement" />
+<meta property="og:description" content="Xuanzhao Dong, Vamsi Krishna Vasa, Wenhui Zhu, Peijie Qiu, Xiwen Chen, Yi Su, Yujian Xiong, Zhangsihao Yang, Yanxi Chen, Yalin Wang. Accepted at WACV2025 (Round 2)" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://vasavamsi.netlify.app/blog/cunsb-rfie/" />
+<meta property="og:image" content="https://vasavamsi.netlify.app/blog/CUNSB-RFIE/cover.png" /><meta property="article:section" content="blog" />
+
+
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://vasavamsi.netlify.app/blog/CUNSB-RFIE/cover.png" />
+<meta name="twitter:title" content="CUNSB-RFIE: Context-aware Unpaired Neural Schrödinger Bridge in Retinal Fundus Image Enhancement"/>
+<meta name="twitter:description" content="Xuanzhao Dong, Vamsi Krishna Vasa, Wenhui Zhu, Peijie Qiu, Xiwen Chen, Yi Su, Yujian Xiong, Zhangsihao Yang, Yanxi Chen, Yalin Wang. Accepted at WACV2025 (Round 2)"/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Blogs",
+      "item": "https://vasavamsi.netlify.app/blog/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "CUNSB-RFIE: Context-aware Unpaired Neural Schrödinger Bridge in Retinal Fundus Image Enhancement",
+      "item": "https://vasavamsi.netlify.app/blog/cunsb-rfie/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "CUNSB-RFIE: Context-aware Unpaired Neural Schrödinger Bridge in Retinal Fundus Image Enhancement",
+  "name": "CUNSB-RFIE: Context-aware Unpaired Neural Schrödinger Bridge in Retinal Fundus Image Enhancement",
+  "description": "Xuanzhao Dong, Vamsi Krishna Vasa, Wenhui Zhu, Peijie Qiu, Xiwen Chen, Yi Su, Yujian Xiong, Zhangsihao Yang, Yanxi Chen, Yalin Wang. Accepted at WACV2025 (Round 2)",
+  "keywords": [
+    "Diffusion Model", "Schrodinger Bridge", "WACV2025", "Retinal Image Enhancement"
+  ],
+  "articleBody": "The work will be presented in the poster presentation session at WACV 2025 in Tucson, AZ. I am also honored to receive the Exponential Learning Grant to present this work.\nAbstract Retinal fundus photography is significant in diagnosing and monitoring retinal diseases. However, systemic imperfections and operator/patient-related factors can hinder the acquisition of high-quality retinal images. Previous efforts in retinal image enhancement primarily relied on GANs, which are limited by the trade-off between training stability and output diversity. In contrast, the Schrödinger Bridge (SB), offers a more stable solution by utilizing Optimal Transport (OT) theory to model a stochastic differential equation (SDE) between two arbitrary distributions. This allows SB to effectively transform low-quality retinal images into their high-quality counterparts. In this work, we leverage the SB framework to propose an image-to-image translation pipeline for retinal image enhancement. Additionally, previous methods often fail to capture fine structural details, such as blood vessels. To address this, we enhance our pipeline by introducing Dynamic Snake Convolution, whose tortuous receptive field can better preserve tubular structures. We name the resulting retinal fundus image enhancement framework the Context-aware Unpaired Neural Schrödinger Bridge (CUNSB-RFIE). To the best of our knowledge, this is the first endeavor to use the SB approach for retinal image enhancement. Experimental results on a large-scale dataset demonstrate the advantage of the proposed method compared to several state-of-the-art supervised and unsupervised methods in terms of image quality and performance on downstream tasks.\nPoster Collaborators Mayo Clinic, Phoenix AZ School of Computing, Clemson University Medical Imaging and Data Science (MINDS) Lab, Washington University in St. Louis 🔗 Paper Pre-print 🔗 Short Presentation 🔗 Code\n",
+  "wordCount" : "270",
+  "inLanguage": "en",
+  "image":"https://vasavamsi.netlify.app/blog/CUNSB-RFIE/cover.png","datePublished": "0001-01-01T00:00:00Z",
+  "dateModified": "0001-01-01T00:00:00Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://vasavamsi.netlify.app/blog/cunsb-rfie/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Vamsi Krishna Vasa",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://vasavamsi.netlify.app/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header sticky-header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://vasavamsi.netlify.app/" accesskey="h" title="Vamsi Krishna Vasa (Alt + H)">Vamsi Krishna Vasa</a>
+            <span class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+                <ul class="lang-switch"><li>|</li>
+                </ul>
+            </span>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://vasavamsi.netlify.app/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://vasavamsi.netlify.app/blog" title="Publications">
+                    <span>Publications</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://vasavamsi.netlify.app/projects" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://vasavamsi.netlify.app/experience" title="Experience">
+                    <span>Experience</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://vasavamsi.netlify.app/search" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="https://vasavamsi.netlify.app/">Home</a>&nbsp;»&nbsp;<a href="https://vasavamsi.netlify.app/blog/">Blogs</a></div>
+    <h1 class="post-title">
+      CUNSB-RFIE: Context-aware Unpaired Neural Schrödinger Bridge in Retinal Fundus Image Enhancement
+    </h1>
+    <div class="post-description">
+      Xuanzhao Dong, Vamsi Krishna Vasa, Wenhui Zhu, Peijie Qiu, Xiwen Chen, Yi Su, Yujian Xiong, Zhangsihao Yang, Yanxi Chen, Yalin Wang. Accepted at WACV2025 (Round 2)
+    </div>
+    <div class="post-meta">
+
+
+Aug 2020
+
+</div>
+  </header> 
+<figure class="entry-cover"><img loading="lazy" src="https://vasavamsi.netlify.app/blog/CUNSB-RFIE/cover.png" alt="">
+        
+</figure><div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">‎ Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul><ul>
+                <li>
+                    <a href="#abstract" aria-label="Abstract">Abstract</a></li>
+                <li>
+                    <a href="#poster" aria-label="Poster">Poster</a></li></ul>
+                    
+                <li>
+                    <a href="#collaborators" aria-label="Collaborators">Collaborators</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><p>The work will be presented in the poster presentation session at WACV 2025 in Tucson, AZ. I am also honored to receive the Exponential Learning Grant to present this work.</p>
+<h2 id="abstract">Abstract<a hidden class="anchor" aria-hidden="true" href="#abstract">#</a></h2>
+<p>Retinal fundus photography is significant in diagnosing and monitoring retinal diseases. However, systemic imperfections and operator/patient-related factors can hinder the acquisition of high-quality retinal images. Previous efforts in retinal image enhancement primarily relied on GANs, which are limited by the trade-off between training stability and output diversity. In contrast, the Schrödinger Bridge (SB), offers a more stable solution by utilizing Optimal Transport (OT) theory to model a stochastic differential equation (SDE) between two arbitrary distributions. This allows SB to effectively transform low-quality retinal images into their high-quality counterparts. In this work, we leverage the SB framework to propose an image-to-image translation pipeline for retinal image enhancement. Additionally, previous methods often fail to capture fine structural details, such as blood vessels. To address this, we enhance our pipeline by introducing Dynamic Snake Convolution, whose tortuous receptive field can better preserve tubular structures. We name the resulting retinal fundus image enhancement framework the Context-aware Unpaired Neural Schrödinger Bridge (CUNSB-RFIE). To the best of our knowledge, this is the first endeavor to use the SB approach for retinal image enhancement. Experimental results on a large-scale dataset demonstrate the advantage of the proposed method compared to several state-of-the-art supervised and unsupervised methods in terms of image quality and performance on downstream tasks.</p>
+<h2 id="poster">Poster<a hidden class="anchor" aria-hidden="true" href="#poster">#</a></h2>
+<p><img loading="lazy" src="/blog/cunsb-rfie/wacv25-2097.png#center" alt=""  />
+</p>
+<!-- ![](/projects/idle-time/model-training.png#center) -->
+<h1 id="collaborators">Collaborators<a hidden class="anchor" aria-hidden="true" href="#collaborators">#</a></h1>
+<ul>
+<li>Mayo Clinic, Phoenix AZ</li>
+<li>School of Computing, Clemson University</li>
+<li>Medical Imaging and Data Science (MINDS) Lab, Washington University in St. Louis</li>
+</ul>
+<p>🔗 <a href="https://arxiv.org/abs/2409.10966">Paper Pre-print</a>
+🔗 <a href="https://drive.google.com/file/d/1X-hUia_VKMCUQx_mat0pmMdq5il3J6iw/view?usp=sharing">Short Presentation</a>
+🔗 <a href="https://github.com/Retinal-Research/CUNSB-RFIE/tree/main">Code</a></p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://vasavamsi.netlify.app/tags/diffusion-model/">Diffusion Model</a></li>
+      <li><a href="https://vasavamsi.netlify.app/tags/schrodinger-bridge/">Schrodinger Bridge</a></li>
+      <li><a href="https://vasavamsi.netlify.app/tags/wacv2025/">WACV2025</a></li>
+      <li><a href="https://vasavamsi.netlify.app/tags/retinal-image-enhancement/">Retinal Image Enhancement</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2025 <a href="https://vasavamsi.netlify.app/">Vamsi Krishna Vasa</a></span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>
